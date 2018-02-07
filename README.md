@@ -13,3 +13,5 @@ gamename   1
 
 
 Restart MAME
+
+It will output the game name to "MAMEDir\gamename.txt" and the associated image from Titles to "MAMEDir\gameimage.png"
