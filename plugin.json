@@ -1,0 +1,11 @@
+{
+    "plugin": {
+      "name": "gamename",
+      "description": "Game Name",
+      "version": "1.0.0",
+      "author": "TwystNeko",
+      "type": "plugin",
+      "start": "false"
+    }
+  }
+  
